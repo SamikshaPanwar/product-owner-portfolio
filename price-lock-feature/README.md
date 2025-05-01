@@ -1,4 +1,4 @@
-# Price Lock Feature - Product Owner Portfolio Project
+# Price Lock Feature 
 
 ## Overview
 Price Lock is a feature allowing users to hold a flight ticket price for a certain period (24–72 hours) by paying a small fee. This helps customers avoid price fluctuations and make more confident purchasing decisions.
